@@ -3,6 +3,7 @@ import json
 import os
 import threading
 
+
 # Configuration
 SERVER_HOST = 'localhost'
 SERVER_PORT = 5000
