@@ -3,6 +3,7 @@ import json
 import os
 from pathlib import Path
 
+
 # Configuration
 SERVER_HOST = 'localhost'
 SERVER_PORT = 5000
